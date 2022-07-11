@@ -1,0 +1,12 @@
+D:\Documents\Visual Studio Repository\MyAzureTeamManager.Models\MyAzureTeamManager.Models\bin\Debug\net6.0\MyAzureTeamManager.Models.deps.json
+D:\Documents\Visual Studio Repository\MyAzureTeamManager.Models\MyAzureTeamManager.Models\bin\Debug\net6.0\MyAzureTeamManager.Models.dll
+D:\Documents\Visual Studio Repository\MyAzureTeamManager.Models\MyAzureTeamManager.Models\bin\Debug\net6.0\MyAzureTeamManager.Models.pdb
+D:\Documents\Visual Studio Repository\MyAzureTeamManager.Models\MyAzureTeamManager.Models\obj\Debug\net6.0\MyAzureTeamManager.Models.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio Repository\MyAzureTeamManager.Models\MyAzureTeamManager.Models\obj\Debug\net6.0\MyAzureTeamManager.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Visual Studio Repository\MyAzureTeamManager.Models\MyAzureTeamManager.Models\obj\Debug\net6.0\MyAzureTeamManager.Models.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio Repository\MyAzureTeamManager.Models\MyAzureTeamManager.Models\obj\Debug\net6.0\MyAzureTeamManager.Models.AssemblyInfo.cs
+D:\Documents\Visual Studio Repository\MyAzureTeamManager.Models\MyAzureTeamManager.Models\obj\Debug\net6.0\MyAzureTeamManager.Models.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio Repository\MyAzureTeamManager.Models\MyAzureTeamManager.Models\obj\Debug\net6.0\MyAzureTeamManager.Models.dll
+D:\Documents\Visual Studio Repository\MyAzureTeamManager.Models\MyAzureTeamManager.Models\obj\Debug\net6.0\refint\MyAzureTeamManager.Models.dll
+D:\Documents\Visual Studio Repository\MyAzureTeamManager.Models\MyAzureTeamManager.Models\obj\Debug\net6.0\MyAzureTeamManager.Models.pdb
+D:\Documents\Visual Studio Repository\MyAzureTeamManager.Models\MyAzureTeamManager.Models\obj\Debug\net6.0\ref\MyAzureTeamManager.Models.dll

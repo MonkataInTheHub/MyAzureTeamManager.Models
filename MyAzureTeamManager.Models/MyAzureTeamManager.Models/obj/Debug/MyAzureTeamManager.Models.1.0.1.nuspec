@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MyAzureTeamManager.Models</id>
+    <version>1.0.1</version>
+    <authors>MyAzureTeamManager.Models</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Documents\Visual Studio Repository\MyAzureTeamManager.Models\MyAzureTeamManager.Models\bin\Debug\net6.0\MyAzureTeamManager.Models.dll" target="lib\net6.0\MyAzureTeamManager.Models.dll" />
+  </files>
+</package>
