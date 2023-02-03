@@ -1,9 +1,9 @@
 ﻿
 namespace MyAzureTeamManager.Models.Interfaces
 {
-    public interface IFeedback
+    public interface IFeedback : IWorkItem
     {
-        public List<string> Comments { get; set; }
+        public List<Comment> Comments { get; set; }
         public string Description { get; set; }
         public Status FeedbackStatus { get; set; }
         public string History { get; set; }

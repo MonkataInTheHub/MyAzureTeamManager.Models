@@ -12,7 +12,7 @@
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
-    "version": "1.0.14",
+    "version": "1.1.1",
     "restore": {
       "projectUniqueName": "D:\\Documents\\Visual Studio Repository\\MyAzureTeamManager.Models\\MyAzureTeamManager.Models\\MyAzureTeamManager.Models.csproj",
       "projectName": "MyAzureTeamManager.Models",
@@ -32,6 +32,7 @@
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "D:\\Documents\\Visual Studio Repository\\MyAzureTeamManager.Models\\MyAzureTeamManager.Models\\bin\\Debug": {},
         "D:\\Documents\\Visual Studio Repository\\Olympians.Models\\Olympians.Models\\bin\\Debug": {},
         "https://api.nuget.org/v3/index.json": {}
@@ -66,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

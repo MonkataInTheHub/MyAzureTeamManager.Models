@@ -20,9 +20,9 @@ namespace MyAzureTeamManager.Models.Factory
         {
             return new Bug(id, title, description, boardId, priority, bugStatus);
         }
-        public Feedback CreateFeedback(int id, string title, string description, Status feedbackStatus, int rating)
+        public Feedback CreateFeedback(int id, string title, string description, Status feedbackStatus, int rating, int boardId)
         {
-            return new Feedback(id, title, description, feedbackStatus, rating);
+            return new Feedback(id, title, description, feedbackStatus, rating, boardId);
         }
         public Task CreateTask(int id, string title, string description, int boardId, Priority priority, Status taskStatus)
         {
@@ -31,6 +31,10 @@ namespace MyAzureTeamManager.Models.Factory
         public Team CreateTeam(int id, string teamName)
         {
             return new Team(id, teamName);
+        }
+        public Comment CreateComment(int id)
+        {
+            return new Comment(id);
         }
     }
 }

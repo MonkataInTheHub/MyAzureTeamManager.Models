@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "MyAzureTeamManager.Models/1.0.14": {
+      "MyAzureTeamManager.Models/1.1.1": {
         "runtime": {
           "MyAzureTeamManager.Models.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "MyAzureTeamManager.Models/1.0.14": {
+    "MyAzureTeamManager.Models/1.1.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

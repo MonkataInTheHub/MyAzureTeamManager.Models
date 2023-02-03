@@ -23,13 +23,13 @@ namespace MyAzureTeamManager.Models
             BoardId = boardId;
             Priority = priority;
             TaskStatus = taskStatus;
-            Comments = new List<string>();
+            Comments = new List<Comment>();
         }
         [Key]
         public int TaskId { get; set; }
         public string Title { get; set; }
         public string Description { get; set; }
-        public List<string> Comments { get; set; }
+        public List<Comment> Comments { get; set; }
         public string History { get; set; }
         [ForeignKey("Board")]
         public int BoardId { get; set; }
